@@ -23,7 +23,6 @@ $.ajax({
 
 
     minDate = new Date(data[0][0]);
-    console.log(minDate)
 
     maxDate = new Date(data[274][0]);
 
